@@ -1,4 +1,4 @@
 # IdeaSettingSync
 IdeaSettingSync
 
-github token.     f246dc668bac873ab69a2dc9ded82b59b4b44273
+github token.     26432fcb2f2748ff9c7991d885cc342f7efafa08
