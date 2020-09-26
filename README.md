@@ -1,2 +1,0 @@
-# IdeaSettingSync
-IdeaSettingSync
